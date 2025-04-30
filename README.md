@@ -1,1 +1,1 @@
-I am learning Javascript. This is where I will put my things.
+I am learning javascript. This is where I will put my things.
