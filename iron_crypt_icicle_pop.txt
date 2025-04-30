@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Iron Crypt Icicle Pops</title>
+    <meta charset="UTF-8">
+  </head>
+  <body>
+    <h1>Iron Crypt Icicle Pops</h1>
+    <p>Hello Dewellers! Today, we will be discussing how to make everyone's favorite treat from the deep recesses of the Crypt: Icicle Pops! In this short step-by-step tutorial, you too can server Iron Crypt Icicle Pops to all your closest friends and foes!
+      <img src="https://cdn.nookazon.com/adoptme/toys/4470750043.png" 
+           alt="The Icicle Pop in it's natural environment." 
+           width=400 
+           height=auto
+      >
+    <h2>Ingredients</h2>
+    <ul>
+      <li>Water</li>
+      <li>A Cold Environment</li>
+      <li>The Iron Crypt Icicle Pop Device™</li>
+      <li>Love™</li>
+    </ul>
+    <h2>Instructions</h2>
+    <ol>
+      <li>First, you will need to take a gallon of water and pour half of the gallon into the Iron Crypt Icicle Pop Device™.</li>
+      <li>Next, you will need to pour the second half of the gallon of water into the Iron Crypt Icicle Pop Device™.</li>
+      <li>Now, just take the filled Iron Crypt Icicle Pop Device™ and place it into a cooled environment. The freezer should do just fine. Just give the Iron Crypt Icicle Pop Device™ time to work its magic. You will know when it is done.</li>
+      <li>Finally, remove the Iron Crypt Icicle Pop Device™ from the cooled environment and enjoy the fruits of your labor.</li>
+  </body>
+</html>
